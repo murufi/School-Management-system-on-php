@@ -1,12 +1,6 @@
-# School-Management-system-on-php
--------------------------------------------------------------
-AN OPEN SOURCE SOFTWARE
-**Developed by Sagor Mollik**
-**Revice the Engineering by AhmadRufai Abubakar [SoftCode]**
----------------------------------------------------------------
-
 **Database Name: schoolmsdb**
 
+**Developed by Sagor Mollik**
 
 **Recommended PHP Version 5.6.3**
 

@@ -1,4 +1,3 @@
-# School-Management-system-on-php
 -------------------------------------------------------------
 AN OPEN SOURCE SOFTWARE
 **Developed by Sagor Mollik**
